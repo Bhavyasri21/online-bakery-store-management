@@ -136,8 +136,8 @@ AUTH_USER_MODEL='BakeryApp.User'
 EMAIL_USE_TLS=True
 EMAIL_HOST='smtp.gmail.com'
 EMAIL_PORT=587
-EMAIL_HOST_USER='nalluribhavyasri123@gmail.com'
-EMAIL_HOST_PASSWORD='amullu123'
+EMAIL_HOST_USER='********'
+EMAIL_HOST_PASSWORD='********'
 
 
 # Default primary key field type
